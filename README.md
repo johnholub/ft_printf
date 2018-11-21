@@ -3,6 +3,9 @@
 ### Compile with your files
 
 Run make to compile the library.
+```
+make
+```
 Add to your .c or .h file line bellow
 ```
 #include "ft_printf.h"
